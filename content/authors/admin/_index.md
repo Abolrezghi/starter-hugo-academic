@@ -34,7 +34,7 @@ education:
     - course: MS in Economics
       institution: The University of Texas at Austin
       year: 2019
-    - course: MS in Economics, Banking
+    - course: MS in Economics - Banking
       institution: University of Tehran
       year: 2017
     - course: BS in Electrical Engineering
