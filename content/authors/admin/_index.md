@@ -25,8 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Texas at Austin
 education:
   courses:
     - course: PhD in Artificial Intelligence
