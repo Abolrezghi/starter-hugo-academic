@@ -4,9 +4,10 @@ avatar_filename: abolfazlrezghiprofile.jpg
 bio: My research interests include monetary policy, financial economics,
   behavioral economics, and firm dynamics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Monetary policy
+  - Financial economics
+  - Behavioral economics
+  - Firm dynamics
 social:
   - icon: envelope
     icon_pack: fas
