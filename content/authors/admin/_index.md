@@ -39,7 +39,7 @@ education:
       year: 2017
     - course: BS in Electrical Engineering
       institution: Sharif University of Technology
-      year: 1967
+      year: 2013
 superuser: true
 highlight_name: true
 title: Abolfazl Rezghi
