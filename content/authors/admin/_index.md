@@ -1,6 +1,6 @@
 ---
 role: "PhD Candidate in Economics "
-avatar_filename: abolfazlrezghiprofile.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include monetary policy, financial economics,
   behavioral economics, and firm dynamics.
 interests:
