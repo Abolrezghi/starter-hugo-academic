@@ -4,17 +4,17 @@ avatar_filename: avatar.jpg
 bio: My research interests include monetary policy, financial economics,
   behavioral economics, and firm dynamics.
 interests:
-  - Monetary policy
-  - Financial economics
-  - Behavioral economics
-  - Firm dynamics
+  - Monetary Economics
+  - Financial Economics
+  - Behavioral Macroeconomics
+  - Firm Dynamics
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/abolfazl122
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -23,9 +23,9 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/abolfazl-rezghi-9324b487/
 organizations:
-  - name: The University of Texas at Austin
+  - name: UT Austin
 education:
   courses:
     - course: PhD in Artificial Intelligence
