@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Econometrics and Quantitative Economics
       institution: The University of Texas at Austin
-      year: ""
+      year: 2023
     - course: MS in Economics
       institution: The University of Texas at Austin
       year: 2019
