@@ -23,7 +23,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/abolfazl-rezghi-9324b487/
+    link: https://www.linkedin.com/in/abolfazl-rezghi-9324b487/
 organizations:
   - name: UT Austin
 education:
