@@ -1,8 +1,8 @@
 ---
-role: Professor of Artificial Intelligence
+role: "PhD Candidate in Economics "
 avatar_filename: abolfazlrezghiprofile.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include monetary policy, financial economics,
+  behavioral economics, and firm dynamics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -39,12 +39,9 @@ education:
       year: 2008
 superuser: true
 highlight_name: true
-title: Nelson Bighetti
+title: Abolfazl Rezghi
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Ph.D. candidate in economics at the University of Texas at Austin.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
